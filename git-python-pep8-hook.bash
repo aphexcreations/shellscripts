@@ -3,7 +3,7 @@
 ##
 ## Python PEP8 Checker for GIT
 ##
-## Author: Brendon Crawford <brendon@last.vc>
+## Author: Brendon Crawford <brendon at last dot vc>
 ##
 ## Installing
 ##   1. Install pep8 checker:
