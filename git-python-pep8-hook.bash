@@ -5,14 +5,17 @@
 ##
 ## Author: Brendon Crawford <brendon@last.vc>
 ##
-## Usage:
-##   1. Save this file as:
+## Installing
+##   1. Install pep8 checker:
+##      `sudo pip install pep8`
+##
+##   2. Save this file as:
 ##      /PATH_TO_LOCAL_REPO/.git/hooks/pre-commit
 ##
-##   2. Set permissions, by running:
-##      chmod +x /PATH_TO_LOCAL_REPO/.git/hooks/pre-commit
+##   3. Set permissions, by running:
+##      `chmod +x /PATH_TO_LOCAL_REPO/.git/hooks/pre-commit`
 ##
-##   3. If you want to run PEP8 on a specific sub-directory,
+##   4. If you want to run PEP8 on a specific sub-directory,
 ##      change the SCAN_DIR variable below to the sub-directory
 ##      name you wish to scan, without trailing slash.
 ##
